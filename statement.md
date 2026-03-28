@@ -73,7 +73,7 @@ The system automatically:
 
 ## 🏗️ System Design
 
-The system is developed using **Object-Oriented Programming (OOP)** concepts:
+The system is developed using **Object-Oriented Programming** concepts:
 
 - `FinancialAssistant` class:
   - Manages transaction history  
