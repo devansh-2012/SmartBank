@@ -136,7 +136,7 @@ FinSight AI bridges the gap between traditional banking systems and intelligent 
 
 ## 👨‍💻 Author
 
-Your Name  
+Name: Devansh Choudhary   
 GitHub: https://github.com/devansh-2012 
 
 ---
